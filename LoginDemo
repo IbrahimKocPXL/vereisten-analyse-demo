@@ -11,6 +11,7 @@ string inputPassword = Console.ReadLine();
 if (inputUser == user && inputPassword == password)
 {
 Console.WriteLine($"Welkom, {inputUser}!");
+Console.WriteLine($"Geslaagd om in te loggen in {tries + 1} poging(en)!")
 return;
 }
 tries++;
