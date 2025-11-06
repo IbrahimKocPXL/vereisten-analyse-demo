@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\bin\Debug\net9.0\LoginDemo.exe
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\bin\Debug\net9.0\LoginDemo.deps.json
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\bin\Debug\net9.0\LoginDemo.runtimeconfig.json
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\bin\Debug\net9.0\LoginDemo.dll
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\bin\Debug\net9.0\LoginDemo.pdb
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.AssemblyInfo.cs
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.sourcelink.json
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.dll
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\refint\LoginDemo.dll
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.pdb
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\LoginDemo.genruntimeconfig.cache
+C:\Users\abdul\Desktop\repos\vereisten-analyse-demo\LoginDemo\obj\Debug\net9.0\ref\LoginDemo.dll

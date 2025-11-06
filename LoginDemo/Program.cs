@@ -1,0 +1,2 @@
+﻿Console.Write("Gebruikersnaam: ");
+    string? inputUser = Console.ReadLine();
